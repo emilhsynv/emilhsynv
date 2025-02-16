@@ -1,53 +1,27 @@
-# Hi there, I'm Emil 👋
+# 👋 Hi, I'm Emil Huseynov!
 
-## 🚀 Backend Developer | Full-Stack Enthusiast  
+## 🚀 About Me
+I'm a passionate and dedicated back-end developer currently enhancing my skills in full-stack web development. My main focus is on Python and JavaScript, and I am actively working towards mastering backend technologies.
 
-I'm a results-driven **Backend Developer** with a strong background in IT & Telecommunications. My passion lies in building efficient, scalable, and secure backend systems. I am transitioning into backend development, leveraging my problem-solving skills, technical expertise, and hands-on experience with data management and software engineering.
+## 🎓 Education & Certifications
+- **Python for Everybody Specialization** – University of Michigan (Instructor: Charles Russell Severance) [Completed]
+- **Meta Back-End Developer Professional Certificate** – Coursera [In Progress]
 
-🔍 **Currently Seeking:** Backend Developer / Full-Stack Engineer opportunities.
+## 🔨 Tech Stack & Skills
+- **Languages**: Python, JavaScript
+- **Back-End**: Flask, Django (beginner), Node.js (beginner)
+- **Databases**: MySQL, PostgreSQL, SQLite
+- **Tools & Version Control**: Git, GitHub
+- **Learning**: REST API Development, Cloud Computing, Docker
 
----
+## 📌 Projects
+### 🔹 Python for Everybody – Capstone Project
+> *Retrieving, Processing, and Visualizing Data with Python*
+- **Tech Stack:** Python, Django, SQL, MySQL
+- **GitHub Repository:** [Link to your project repo once added]
 
-## 🛠 Tech Stack
+## 📬 Connect with Me
+- **LinkedIn:** [Emil Huseynov](https://www.linkedin.com/in/emil-huseynov-a56aa514/)
+- **Coursera Profile:** [My Courses & Certifications](https://www.coursera.org/user/103225e043c09245b4d281400de6eec5)
 
-### Languages & Frameworks:
-- Python (Flask, FastAPI, Django)
-- JavaScript (Node.js, Express)
-- SQL (PostgreSQL, MySQL)
-- NoSQL (Redis, MongoDB)
-
-### DevOps & Cloud:
-- Docker | Kubernetes
-- CI/CD Pipelines (GitHub Actions, Jenkins)
-- Cloud Platforms (AWS, GCP)
-
-### Other Skills:
-- RESTful API Design & Development
-- Microservices Architecture
-- Linux & Bash Scripting
-- Git, GitHub & Version Control
-
----
-
-## 📌 Featured Projects
-
-### 🔹 [Python Data Visualization Capstone](https://www.coursera.org/learn/python-data-visualization)
-*Data analysis & visualization using Python (Matplotlib, Seaborn, Pandas).*  
-
-### 🔹 [Meta Backend Developer Course Projects](https://github.com/emilhsynv/Meta_Backend_Course)
-*Hands-on backend projects covering authentication, database management, and REST API development.*
-
-### 🔹 [py_projects](https://github.com/emilhsynv/py_projects)
-*A collection of Python projects showcasing problem-solving and algorithmic thinking.*
-
----
-
-## 📫 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Emil%20Huseynov-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/emil-huseynov-a56aa514/)  
-📧 **Email:** emilhsynv@gmail.com  
-🌍 **GitHub:** [github.com/emilhsynv](https://github.com/emilhsynv)
-
----
-
-💡 **Let's build something great together!** 🚀
+Let's connect and collaborate on interesting projects! 🚀
