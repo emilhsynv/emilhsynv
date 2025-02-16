@@ -16,9 +16,9 @@ I'm a passionate and dedicated back-end developer currently enhancing my skills 
 
 ## 📌 Projects
 ### 🔹 Python for Everybody – Capstone Project
-> *Retrieving, Processing, and Visualizing Data with Python*
-- **Tech Stack:** Python, Django, SQL, MySQL
-- **GitHub Repository:** [Link to your project repo once added]
+> *Retrieving, Processing, and Visualizing Data with Python*  
+- **Tech Stack:** Python, Django, SQL, MySQL  
+- **GitHub Repository:** [emilhsynv/python-capstone-projects](https://github.com/emilhsynv/python-capstone-projects)  
 
 ## 📬 Connect with Me
 - **LinkedIn:** [Emil Huseynov](https://www.linkedin.com/in/emil-huseynov-a56aa514/)
