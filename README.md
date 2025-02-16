@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Emil Huseynov!
+# 👋 Hi there, I'm Emil 
 
 ## 🚀 About Me
 I'm a passionate and dedicated back-end developer currently enhancing my skills in full-stack web development. My main focus is on Python and JavaScript, and I am actively working towards mastering backend technologies.
